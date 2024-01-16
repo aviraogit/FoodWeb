@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './component/Navbar'
 import Header from './component/Header'
-import Tranding from './component/Tranding'
+// import Tranding from './component/Tranding'
 import Dontmiss from './component/Dontmiss'
 // import Popular from './Pages/Popular1'
 import Populargroup from './component/Populargroup'
@@ -18,7 +18,7 @@ function App() {
     
     <Navbar/>
     <Header/>
-    <Tranding/>
+    {/* <Tranding/> */}
     <Dontmiss/>
     <Populargroup/>
     <Step/>
