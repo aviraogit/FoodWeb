@@ -49,9 +49,7 @@ font-family: 'Rubik', sans-serif;
   padding-bottom: -10px;
   
 }
-.font{
-  /* font-size: larger; */
-}
+
 .ul1{
   /* border: 1px solid white; */
   display: flex;
@@ -324,9 +322,7 @@ font-family: 'Rubik', sans-serif;
   
 
 }
-.steps img{
-  
-}
+
 .logo{
  width: 300px;
  margin-left: 680px;
@@ -357,9 +353,5 @@ font-family: 'Rubik', sans-serif;
 
   align-items: center;
 }
-.div2{
-  /* width: 50%; */
-  /* display: flex; */
 
-}
 

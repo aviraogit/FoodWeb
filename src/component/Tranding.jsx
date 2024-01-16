@@ -1,19 +1,8 @@
 import React from 'react'
 
-const tranding = () => {
+const Tranding = () => {
   return (
     <>
-    
-    
-    
-    
-    {/* <!-- ///// Tranding  --> */}
-
-
-
-
-    
-
     <h2 class="trandingh2"id='Tranding' >TRENDING
     <span className='text-danger'> NOW
     </span></h2>
@@ -55,9 +44,6 @@ const tranding = () => {
      
     </div>
     
-
-   
-
     </div>
 
 
@@ -66,4 +52,4 @@ const tranding = () => {
   )
 }
 
-export default tranding
+export default Tranding
